@@ -1,0 +1,15 @@
+Brett Carter
+brett.carter@wsu.edu
+CS442 - Graphics
+Wayne Cochran
+Dancing robot program
+October 14, 2014
+
+
+files:
+	Robot.html
+	matrix.js
+	README
+
+Description:
+	For this program I used the code provided by Wayne Cochran for the animation of the robots left arm to implement the rest of the robot. Mirroring the left arm about the y-axis to get the right arm and translating them to be on opposing sides of the body. The body of the robot is a scaled version of an arm segment. Then using the same rectangular segment I scaled it and translated it to create a left leg segment, which after mirroring was used for the right leg. I created a new set of vertices for the feet and head of the robot.
